@@ -14,7 +14,7 @@ import Error from './Error';
 function App() {
   return (
     <div className="App">
-      <Router basename = "/FreeGames">
+      <Router basename = "/Free-Games">
         <Switch>
           <Route exact path = "/">
             <SideBar />
